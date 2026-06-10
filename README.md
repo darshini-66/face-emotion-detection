@@ -39,5 +39,5 @@ A Deep Learning-based Face Emotion Detection system that analyzes facial express
 5. Emotion Prediction
 6. Real-Time Detection using Webcam
 
-## 📁 Project Structure
+
 
