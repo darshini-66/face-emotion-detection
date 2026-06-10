@@ -41,11 +41,3 @@ A Deep Learning-based Face Emotion Detection system that analyzes facial express
 
 ## 📁 Project Structure
 
-```text
-Face-Emotion-Detection/
-│
-├── facialexpression.ipynb
-├── facialexpression.json
-├── facialexpression.h5
-├── dataset/
-├── README.md
